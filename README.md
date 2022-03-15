@@ -1,5 +1,4 @@
-# Stocks-Candle-Stick---Pattern-recognition
-C# .net Form - Stocks Candle-Stick - Pattern recognition  
+# Candle Stick Graph - Pattern-recognition
 C# Windows Multi-Form that retrieves Yahoo stock data through a WebQuery that uses Yahoo’s API.  
 Candle-stick chart are generated with DataVisualization.Charting from the .net framework. Implemented the pattern recognition (Doji, Mazuburu, Haramis…)  
 
