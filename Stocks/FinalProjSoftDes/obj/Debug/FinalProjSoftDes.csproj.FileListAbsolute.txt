@@ -1,0 +1,33 @@
+C:\Users\sergi\source\repos\FinalProjSoftDes\FinalProjSoftDes\bin\Debug\FinalProjSoftDes.exe.config
+C:\Users\sergi\source\repos\FinalProjSoftDes\FinalProjSoftDes\bin\Debug\FinalProjSoftDes.exe
+C:\Users\sergi\source\repos\FinalProjSoftDes\FinalProjSoftDes\bin\Debug\FinalProjSoftDes.pdb
+C:\Users\sergi\source\repos\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.Properties.Resources.resources
+C:\Users\sergi\source\repos\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.csproj.GenerateResource.cache
+C:\Users\sergi\source\repos\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.exe
+C:\Users\sergi\source\repos\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.pdb
+C:\Users\sergi\source\repos\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.FormChart.resources
+C:\Users\sergi\source\repos\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.FormMain.resources
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Project 3\FinalProjSoftDes\FinalProjSoftDes\bin\Debug\FinalProjSoftDes.exe.config
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Project 3\FinalProjSoftDes\FinalProjSoftDes\bin\Debug\FinalProjSoftDes.exe
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Project 3\FinalProjSoftDes\FinalProjSoftDes\bin\Debug\FinalProjSoftDes.pdb
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Project 3\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.csproj.AssemblyReference.cache
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Project 3\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.FormMain.resources
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Project 3\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.FormChart.resources
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Project 3\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.Properties.Resources.resources
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Project 3\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.csproj.GenerateResource.cache
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Project 3\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.csproj.CoreCompileInputs.cache
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Project 3\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.exe
+C:\Users\Matias\OneDrive\Fall 2021\Software System Development\Project 3\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.pdb
+C:\Users\Ciner\Desktop\FinalProjSoftDes\FinalProjSoftDes\bin\Debug\FinalProjSoftDes.exe.config
+C:\Users\Ciner\Desktop\FinalProjSoftDes\FinalProjSoftDes\bin\Debug\FinalProjSoftDes.exe
+C:\Users\Ciner\Desktop\FinalProjSoftDes\FinalProjSoftDes\bin\Debug\FinalProjSoftDes.pdb
+C:\Users\Ciner\Desktop\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.csproj.AssemblyReference.cache
+C:\Users\Ciner\Desktop\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.FormMain.resources
+C:\Users\Ciner\Desktop\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.FormChart.resources
+C:\Users\Ciner\Desktop\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.Properties.Resources.resources
+C:\Users\Ciner\Desktop\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.csproj.GenerateResource.cache
+C:\Users\Ciner\Desktop\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.csproj.CoreCompileInputs.cache
+C:\Users\Ciner\Desktop\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.exe
+C:\Users\Ciner\Desktop\FinalProjSoftDes\FinalProjSoftDes\obj\Debug\FinalProjSoftDes.pdb
